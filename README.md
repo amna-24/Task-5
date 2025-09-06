@@ -1,27 +1,27 @@
-# My GitHub Markdown Demo
+# My GitHub Markdown Project
 
-This is a demo of different **Markdown elements**.
+This is a project of displaying different **Markdown elements**.
 
 ---
 
 ## Formatting
 
-- **Bold text example** → **Hello World**
-- *Italic text example* → *Hello World*
+- **Bold text example** → **My name is Amna**
+- *Italic text example* → *My name is Amna*
 - ~~Strikethrough example~~
-## My Task List
+## Task List
 
-- [ ] Add a heading
-- [ ] Add formatting
-- [ ] Add a strikethrough
-- [ ] Add a code block
+- [x] Add a heading
+- [x] Add formatting
+- [x] Add a strikethrough
+- [x] Add a code block
 
 
 ---
 
 ## Code Block
 
-Here’s a sample Git command:
+Here’s an example of a Git command:
 
 ```bash
 git status
